@@ -2,11 +2,17 @@
 
 This is a demo module for ***PrestaShop 1.7***
 
-***Currently, this module require a PrestaShop Core change to work.***
+***Currently, this module require a [PrestaShop Core change](https://github.com/PrestaShop/PrestaShop/pull/14049) to work.***
 
 ## About
 
 Shop logo can depend on the language
+
+With
+![with](https://user-images.githubusercontent.com/5262628/58766620-14ef1900-8581-11e9-91a3-8a2c59c342dc.PNG)
+
+Without
+![without](https://user-images.githubusercontent.com/5262628/58766623-1c162700-8581-11e9-9bec-ecb537342e0e.PNG)
 
 ## Reporting issues
 
